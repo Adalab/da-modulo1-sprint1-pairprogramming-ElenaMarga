@@ -9,5 +9,5 @@
         - Sets = 0% 
 
     - PP de sentencias de control: 
-        - If = 10/13 done
-        - While = 0% done 
+        - If = 12/13 done
+        - While = 50% done 
